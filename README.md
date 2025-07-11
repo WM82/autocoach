@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 AutoCoach - Plateforme SaaS de Génération d'Annonces Automobiles
 
 [![React](https://img.shields.io/badge/React-19-blue.svg)](https://reactjs.org/)
@@ -291,3 +292,6 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
   </p>
 </div>
 
+=======
+# autocoach
+>>>>>>> 189065ed692da470a8f07593822c2445300fd6d1
